@@ -678,7 +678,7 @@ Potential improvements include:
 
 ### Project Repository
 
-[View My Project on GitHub](https://github.com/subhadipchaulya123/IDP_PROJECT_2026_3RD-SEM)
+[View My Project on GitHub](https://github.com/Snehacodes13/IMU_GPS_GTSAM)
 
 ### Dataset Output
 
